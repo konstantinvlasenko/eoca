@@ -1,15 +1,24 @@
-/* global componentHandler */
 import Vue from 'vue'
 import App from './App'
 
-/* eslint-disable no-new */
-new Vue({
-  el: '#app',
-  render: h => h(App)
+import Home from './pages/Home'
+import Constitution from './pages/Constitution'
+
+import VueRouter from 'vue-router'
+
+Vue.use(VueRouter)
+
+const router = new VueRouter({
+  mode: 'history',
+  routes: [
+    { path: '/', component: Home },
+    { path: '/constitution', component: Constitution }
+  ]
 })
 
-Vue.directive('mdl', {
-  bind: () => {
-    componentHandler.upgradeElement(this.el)
-  }
+/* eslint-disable no-new */
+new Vue({
+  router,
+  el: '#app',
+  render: h => h(App)
 })

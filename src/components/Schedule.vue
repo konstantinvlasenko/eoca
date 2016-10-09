@@ -1,17 +1,74 @@
 <template>
-  <div>
-    <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
-      <caption class="mdl-typography--title">Grand Prix Tournaments 2016/2017</caption>
-      <tbody class="mdl-typography--subhead">
-        <tr v-for="tournament in tournaments">
-          <td class="mdl-data-table__cell--non-numeric">{{ tournament.name }}</td>
-          <td>{{ tournament.date }}</td>
-          <td>{{ tournament.location }}</td>
-          <td><i class="material-icons mdl-color-text--green">done</i></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+  <table class="striped">
+    <tbody>
+      <tr>
+        <td><a href="resources/2016/1st-Almonte-Open.pdf" target="_blank">Almonte Open</a></td>
+        <td>Aug 27,28</td>
+        <td>Almonte</td>
+        <td><i class="material-icons green-text">done</i></td>
+      </tr>
+      <tr>
+        <td><a href="resources/2016/2016-RA-Fall-Open.pdf" target="_blank">RA Fall Open</a></td>
+        <td>Sep 23,24,25</td>
+        <td>Ottawa</td>
+        <td><i class="material-icons green-text">done</i></td>
+      </tr>
+      <tr>
+        <td><a href="resources/2016/2016-National-Capital-Open.pdf" target="_blank">National Capital Open</a></td>
+        <td>Oct 28,29,30</td>
+        <td>Ottawa</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>RA November Open</td>
+        <td>Nov 25,26,27</td>
+        <td>Ottawa</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>RA Winter Open</td>
+        <td>Jan 13,14,15</td>
+        <td>Ottawa</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>Gatineau Open</td>
+        <td>Mar 3,4,5</td>
+        <td>Gatineau</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>Kingston Open</td>
+        <td>Mar 31 - Apr 2</td>
+        <td>Kingston</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>CYCC Qualifier</td>
+        <td>Apr 17</td>
+        <td>Nepean</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td><a href="resources/2017/Arnprior-Open.pdf" target="_blank">Arnprior Open</a></td>
+        <td>Apr 29,30</td>
+        <td>Arnprior</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>Ontario Open</td>
+        <td>May 20,21,22</td>
+        <td>Ottawa</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+      <tr>
+        <td>Eastern Ontario Open</td>
+        <td>Jun 23,24,25</td>
+        <td>Ottawa</td>
+        <td><i class="material-icons">schedule</i></td>
+      </tr>
+    </tbody>
+  </table>
 </template>
 <script>
 export default {
@@ -33,9 +90,4 @@ export default {
   }
 }
 </script>
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-caption {
-  margin-bottom: 10px
-}
-</style>
+

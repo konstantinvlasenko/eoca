@@ -1,12 +1,14 @@
 <template>
-  <div class="welcome mdl-color-text--orange mdl-typography--text-center mdl-layout--large-screen-only">
-    <div class="mdl-typography--display-1">Welcome to "Eastern Ontario Chess Association"</div>
-    <div class="mdl-typography--subhead-color-contrast">Bienvenue à "L'ASSOCIATION DES ÉCHECS DE L'EST-ONTARIO AEEO"</div>
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <h3 class="header center orange-text hide-on-small-only">Welcome to "Eastern Ontario Chess Association"</h3>
+      <div class="row center">
+        <h5 class="header col s12 light hide-on-small-only">Bienvenue à "L'ASSOCIATION DES ÉCHECS DE L'EST-ONTARIO  AEEO"</h5>
+      </div>
+      <!--<div class="row center">
+        <a href="https://twitter.com/EOCAChess" class="twitter-follow-button" data-show-count="false">Follow @EOCAChess</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>-->
+    </div>
   </div>
 </template>
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-.welcome {
-  margin: 25px 0 25px 0
-}
-</style>
