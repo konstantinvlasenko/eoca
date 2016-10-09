@@ -3,6 +3,7 @@ import App from './App'
 
 import Home from './pages/Home'
 import Constitution from './pages/Constitution'
+import Board from './pages/Board'
 
 import VueRouter from 'vue-router'
 
@@ -12,7 +13,8 @@ const router = new VueRouter({
   mode: 'history',
   routes: [
     { path: '/', component: Home },
-    { path: '/constitution', component: Constitution }
+    { path: '/constitution', component: Constitution },
+    { path: '/board', component: Board }
   ]
 })
 

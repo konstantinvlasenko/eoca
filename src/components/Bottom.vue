@@ -6,7 +6,7 @@
           <h5 class="white-text">About</h5>
           <ul>
             <li><router-link to="/constitution" class="grey-text text-lighten-3">Constitution</router-link>
-            <li><a class="grey-text text-lighten-3" href="#!">Board Members</a></li>
+            <li><router-link to="/board" class="grey-text text-lighten-3">Board Members</router-link>
             <li><a class="grey-text text-lighten-3" href="#!">EOCA Grand Prix Regulations</a></li>
           </ul>
         </div>
