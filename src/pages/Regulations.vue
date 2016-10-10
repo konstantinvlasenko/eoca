@@ -1,25 +1,26 @@
 <template>
-  <div>
-    <div class="row">
-      <div class="col s12 m5 l5 card">
+  <div class="row">
+    <div class="col s12 m12 l6">
+      <div class="card">
         <div class="card-content">
           <span class="card-title">Grand Prix Sections</span><i class="right hide-on-med-and-down material-icons grey-text">pin_drop</i>
           <ul class="collection">
-            <li class="collection-item">Top</li>
-            <li class="collection-item">U2200</li>
-            <li class="collection-item">U1900</li>
-            <li class="collection-item">U1600</li>
-          </ul>
-        </div>
-        <div class="card-content">
-          <span class="card-title">Prizes</span>
-          <ul class="collection">
-            <li class="collection-item">Top section winner's name engraved on Grand Prix trophy</li>
-            <li class="collection-item">All section winners: Personalized engraved plaque</li>
+            <li class="collection-item">Top, U2200, U1900, U1600</li>
           </ul>
         </div>
       </div>
-      <div class="col s12 m6 l6 card">
+      <div class="card">
+        <div class="card-content">
+          <span class="card-title">Prizes</span><i class="right hide-on-med-and-down material-icons grey-text">pin_drop</i>
+          <ul class="collection">
+            <li class="collection-item">Top section winner's name engraved on Grand Prix trophy</li>
+            <li class="collection-item">All section winners: Personalized engraved plaque</li>
+            </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col s12 m12 l6">
+      <div class="card">
         <div class="card-content">
           <span class="card-title">Scoring / Tie-Breaking Rules</span><i class="right hide-on-med-and-down material-icons grey-text">pin_drop</i>
           <ul class="collection">
@@ -33,7 +34,9 @@
           </ul>
         </div>
       </div>
-      <div class="col s12 m11 l11 card">
+    </div>
+    <div class="col s12 m12 l12">
+      <div class="card">
         <div class="card-content">
           <span class="card-title">Other Regulations</span><i class="right hide-on-med-and-down material-icons grey-text">pin_drop</i>
           <ul class="collection">
@@ -58,20 +61,3 @@
     </div>
   </div>
 </template>
-
-<style scoped>
-  .regulations > li {
-    margin-top: 10px;
-  }
-  .regulations > li::first-line {
-    font-weight: bold;
-    display: block;
-  }
-  
-  .right {
-    font-size: 48px;
-    float: right;
-  }
-</style>
-
-
