@@ -7,7 +7,7 @@
           <ul>
             <li><router-link to="/constitution" class="grey-text text-lighten-3">Constitution</router-link>
             <li><router-link to="/board" class="grey-text text-lighten-3">Board Members</router-link>
-            <li><a class="grey-text text-lighten-3" href="#!">EOCA Grand Prix Regulations</a></li>
+            <li><router-link to="/regulations" class="grey-text text-lighten-3">EOCA Grand Prix Regulations</router-link>
           </ul>
         </div>
         <div class="col s4">
