@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Constitution from './pages/Constitution'
 import Regulations from './pages/Regulations'
 import Board from './pages/Board'
+import Champions from './pages/Champions'
 
 import VueRouter from 'vue-router'
 
@@ -15,7 +16,8 @@ const router = new VueRouter({
     { path: '/', component: Home },
     { path: '/constitution', component: Constitution },
     { path: '/board', component: Board },
-    { path: '/regulations', component: Regulations }
+    { path: '/regulations', component: Regulations },
+    { path: '/champions', component: Champions }
   ]
 })
 
