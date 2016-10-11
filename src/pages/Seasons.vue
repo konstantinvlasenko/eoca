@@ -20,6 +20,7 @@
 </template>
 
 <script>
+/* global $ */
 export default {
   data () {
     return {
@@ -53,7 +54,7 @@ export default {
     }
   },
   mounted: function () {
-    this.$el.collapsible()
+    $(this.$el).collapsible()
   }
 }
 </script>
