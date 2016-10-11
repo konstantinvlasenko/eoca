@@ -14,7 +14,7 @@
           <h5 class="white-text">History</h5>
           <ul>
             <li><router-link to="/champions" class="grey-text text-lighten-3">EOCA Grand Prix Champions</router-link></li>
-            <li><a class="grey-text text-lighten-3" href="#!">Past Tournaments</a></li>
+            <li><router-link to="/seasons" class="grey-text text-lighten-3">Past Tournaments</router-link></li>
             <li><a class="grey-text text-lighten-3" href="#!">Past Standings</a></li>
           </ul>
         </div>

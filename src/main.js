@@ -6,6 +6,7 @@ import Constitution from './pages/Constitution'
 import Regulations from './pages/Regulations'
 import Board from './pages/Board'
 import Champions from './pages/Champions'
+import Seasons from './pages/Seasons'
 
 import VueRouter from 'vue-router'
 
@@ -17,7 +18,8 @@ const router = new VueRouter({
     { path: '/constitution', component: Constitution },
     { path: '/board', component: Board },
     { path: '/regulations', component: Regulations },
-    { path: '/champions', component: Champions }
+    { path: '/champions', component: Champions },
+    { path: '/seasons', component: Seasons }
   ]
 })
 

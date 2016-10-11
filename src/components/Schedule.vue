@@ -4,10 +4,14 @@
       <span class="card-title">Grand Prix Tournaments 2016/2017</span><i class="right material-icons">event_available</i>
       <transition-group name="flip-list" tag="ul" class="collection">
         <li class="collection-item avatar" v-for="tournament in tournaments" v-bind:key="tournament.start">
-        <i class="material-icons circle" v-bind:class="{ green: tournament.next }">{{ Date.now() > Date.parse(tournament.end) ? 'done' : tournament.next ? 'alarm_on' : 'schedule' }}</i>
-        <span>{{ tournament.name }}</span><br/>
-        <span>{{ tournament.location }}</span>
-        <span class="right"><span>{{ tournament.start }}</span> - <span>{{ tournament.end }}</span></span>
+          <i class="material-icons circle" v-bind:class="{ green: tournament.next }">{{ Date.now() > Date.parse(tournament.end) ? 'done' : tournament.next ? 'alarm_on' : 'schedule' }}</i>
+          <span>{{ tournament.name }}</span><br/>
+          <span>{{ tournament.location }}</span>
+          <span class="right"><span>{{ tournament.start }}</span> - <span>{{ tournament.end }}</span></span><br/>
+          <span class="results" v-if="tournament.OPEN"><a :href="tournament.OPEN" target="_blank">Open</a></span>
+          <span class="results" v-if="tournament.U1900"><a :href="tournament.U1900" target="_blank">U1900</a></span>
+          <span class="results" v-if="tournament.U1600"><a :href="tournament.U1600" target="_blank">U1600</a></span>
+        </li>
       </transition-group>
     </div>
   </div>
@@ -18,8 +22,8 @@ export default {
   data () {
     return {
       tournaments: [
-      { name: 'Almonte Open', location: 'Almonte', ref: 'resources/2016/1st-Almonte-Open.pdf', start: '2016-08-27', end: '2016-08-28' },
-      { name: 'RA Fall Open', location: 'Ottawa', ref: 'resources/2016/2016-RA-Fall-Open.pdf', start: '2016-09-23', end: '2016-09-25' },
+      { name: 'Almonte Open', location: 'Almonte', ref: 'resources/2016/1st-Almonte-Open.pdf', start: '2016-08-27', end: '2016-08-28', OPEN: 'http://chess.ca/crosstable?tournament_check_number=201608065' },
+      { name: 'RA Fall Open', location: 'Ottawa', ref: 'resources/2016/2016-RA-Fall-Open.pdf', start: '2016-09-23', end: '2016-09-25', OPEN: 'http://chess.ca/crosstable?tournament_check_number=201609031', U1900: 'http://chess.ca/crosstable?tournament_check_number=201609033', U1600: 'http://chess.ca/crosstable?tournament_check_number=201609032' },
       { name: 'National Capital Open', location: 'Ottawa', ref: 'resources/2016/2016-National-Capital-Open.pdf', start: '2016-10-28', end: '2016-10-30' },
       { name: 'RA November Open', location: 'Ottawa', start: '2016-11-25', end: '2016-11-27' },
       { name: 'RA Winter Open', location: 'Ottawa', start: '2017-01-13', end: '2017-01-15' },
@@ -46,6 +50,9 @@ export default {
 </script>
 
 <style scoped>
+  .results {
+    margin-right: 10px;
+  }
   .true {
     background-color: green;
   }
