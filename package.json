@@ -10,7 +10,10 @@
     "unit": "karma start test/unit/karma.conf.js --single-run",
     "e2e": "node test/e2e/runner.js",
     "test": "npm run unit && npm run e2e",
-    "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
+    "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs",
+    "deploy-static": "aws s3 sync ./dist s3://eoca --exclude \"*.json\" --storage-class REDUCED_REDUNDANCY --delete",
+    "deploy-data": "aws s3 sync ./dist s3://eoca --exclude \"*\" --include \"*.json\" --content-type application/json --storage-class REDUCED_REDUNDANCY --delete",
+    "deploy": "npm run build && npm run deploy-data && npm run deploy-static"
   },
   "dependencies": {
     "vue": "^2.0.1",
