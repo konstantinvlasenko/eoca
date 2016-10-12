@@ -9,7 +9,9 @@ import Champions from './pages/Champions'
 import Seasons from './pages/Seasons'
 
 import VueRouter from 'vue-router'
+import VueResource from 'vue-resource'
 
+Vue.use(VueResource)
 Vue.use(VueRouter)
 
 const router = new VueRouter({
