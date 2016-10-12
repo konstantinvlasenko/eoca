@@ -34,5 +34,28 @@
     { "name": "McIntosh  Open", "location": "Morrisburg", "start": "2015-04-11", "end": "2015-04-12", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201504079" },
     { "name": "Arnprior Open", "location": "Arnprior", "start": "2015-05-02", "end": "2015-05-03", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201505015" },
     { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2015-06-19", "end": "2015-06-21", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201506056", "U1900": "http://chess.ca/crosstable?tournament_check_number=201506058", "U1600": "http://chess.ca/crosstable?tournament_check_number=201506057" }
+  ],
+  "2013/2014": [
+    { "name": "RA Fall Open", "location": "Ottawa", "start": "2013-09-13", "end": "2013-09-15", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201309032", "U1900": "http://chess.ca/crosstable?tournament_check_number=201309034", "U1600": "http://chess.ca/crosstable?tournament_check_number=201309033" },
+    { "name": "National Capital Open", "location": "Ottawa", "start": "2013-10-18", "end": "2013-10-20", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201310032", "U2200": "http://chess.ca/crosstable?tournament_check_number=201310034", "U1900": "http://chess.ca/crosstable?tournament_check_number=201310033" },
+    { "name": "RA November Open", "location": "Ottawa", "start": "2014-11-08", "end": "2014-11-10", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201311051", "U1900": "http://chess.ca/crosstable?tournament_check_number=201311052" },
+    { "name": "RA Winter Open", "location": "Ottawa", "start": "2014-01-17", "end": "2014-01-19", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201401023", "U1900": "http://chess.ca/crosstable?tournament_check_number=201401025", "U1600": "http://chess.ca/crosstable?tournament_check_number=201401024" },
+    { "name": "Kingston Open", "location": "Kingston", "start": "2014-02-07", "end": "2014-02-09", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201402015" },
+    { "name": "Gatineau Open", "location": "Gatineau", "start": "2014-02-28", "end": "2014-03-02", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201403001", "U1800": "http://chess.ca/crosstable?tournament_check_number=201403003", "U1500": "http://chess.ca/crosstable?tournament_check_number=201403002" },
+    { "name": "McIntosh  Open", "location": "Morrisburg", "start": "2014-04-12", "end": "2014-04-13", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201404034" },
+    { "name": "CYCC Qualifier", "location": "Nepean", "start": "2014-04-21", "end": "2014-04-21", "U16": "http://chess.ca/crosstable?tournament_check_number=201404099", "U10": "http://chess.ca/crosstable?tournament_check_number=201404098" },
+    { "name": "Arnprior Open", "location": "Arnprior", "start": "2014-05-03", "end": "2014-05-04", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201405001" },
+    { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2014-06-20", "end": "2014-06-22" }
   ]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
