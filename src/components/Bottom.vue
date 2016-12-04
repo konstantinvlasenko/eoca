@@ -21,9 +21,9 @@
         <div class="col s4">
           <h5 class="white-text">Links</h5>
           <ul>
-            <li><a class="grey-text text-lighten-3" href="#!">Chess Federations, Associations and Leagues</a></li>
-            <li><a class="grey-text text-lighten-3" href="#!">Chess Clubs</a></li>
-            <li><a class="grey-text text-lighten-3" href="#!">Other Links</a></li>
+            <li><router-link to="/federations" class="grey-text text-lighten-3">Chess Federations, Associations and Leagues</router-link></li>
+            <li><router-link to="/clubs" class="grey-text text-lighten-3">Chess Clubs</router-link></li>
+            <li><router-link to="/links" class="grey-text text-lighten-3">Other Links</router-link></li>
           </ul>
         </div>
       </div>
