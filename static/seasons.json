@@ -37,7 +37,17 @@
       ],
       "td": "Halldor P. Palsson"
     },
-    { "name": "RA March Open", "location": "Ottawa", "start": "2017-03-03", "end": "2017-03-05" },
+    { 
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2017-03-03",
+      "end": "2017-03-05",
+      "place": "RA Centre, 2451 Riverside Drive, Ottawa - Bytown rooms A & B.",
+      "rounds": "5, Friday 7:30 PM Saturday & Sunday @ 10 AM & 3 PM.",
+      "byes": "Max of three ½ point byes in the first four rounds.",
+      "type": "Regular Swiss",
+      "time": "Game-in- 90-plus- 30-seconds- a-move."
+    },
     { "name": "Kingston Open", "location": "Kingston", "start": "2017-03-31", "end": "2017-04-02" },
     { "name": "CYCC Qualifier", "location": "Nepean", "start": "2017-04-17", "end": "2017-04-17" },
     { "name": "Arnprior Open", "location": "Arnprior", "start": "2017-04-29", "end": "2017-04-30" },
