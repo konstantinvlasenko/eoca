@@ -42,14 +42,35 @@
       "location": "Ottawa",
       "start": "2017-03-03",
       "end": "2017-03-05",
-      "place": "RA Centre, 2451 Riverside Drive, Ottawa - Bytown rooms A & B.",
+      "place": "RA Centre, 2451 Riverside Drive, Ottawa - Courtside A.",
       "rounds": "5, Friday 7:30 PM Saturday & Sunday @ 10 AM & 3 PM.",
       "byes": "Max of three ½ point byes in the first four rounds.",
       "type": "Regular Swiss",
-      "time": "Game-in- 90-plus- 30-seconds- a-move."
+      "time": "Game-in- 90-plus- 30-seconds- a-move.",
+      "registration": [
+        "Cheque by February 25, 2017, payable to: Halldor P. Palsson, 633 Island Park Cr., Ottawa, Ont. K1Y 3P4 or e-mail fs889@ncf.ca",
+        "Or register in person at the RA Chess Club, February 16, 23 or March 2, 7:00-7:30 PM"
+      ],
+      "sections": {
+        "OPEN": "(rated FIDE & CFC); 1st $400, 2nd $200, 3rd $100; U2200 $100",
+        "U1900": "(rated CFC); 1st $200, 2nd $125, 3rd $75; U1750 $100",
+        "U1600": "(rated CFC) 1st $150, 2nd $100, 3rd $50"
+      },
+      "fees": { 
+        "OPEN": "$60 if pre-registered, $70 at site",
+        "U1900": "$60 if pre-registered, $70 at site",
+        "U1600": "$40 if pre-registered, $60 at site"
+      },
+      "notes": [ 
+        "Add $20 if playing up a section. A player must be 100 points or less from the rating floor for the section he wants to play up in.",
+        "Amateur entry is $30. Amateur entrants are not eligible for prizes. Amateur entrants will be used in a higher or a lower section, if needed, to avoid giving a BYE to a player.",
+        "Free entry for GM/WGM & IM/WIM if entered by e-mail by January 5th.",
+        "Sections and prizes are based on projected entries and may change.",
+        "Please bring your own equipment if you prefer it – RA Club sets and clocks are provided."
+      ],
+      "td": "Halldor P. Palsson"
     },
     { "name": "Kingston Open", "location": "Kingston", "start": "2017-03-31", "end": "2017-04-02" },
-    { "name": "CYCC Qualifier", "location": "Nepean", "start": "2017-04-17", "end": "2017-04-17" },
     { "name": "Arnprior Open", "location": "Arnprior", "start": "2017-04-29", "end": "2017-04-30" },
     { "name": "Ontario Open", "location": "Ottawa", "start": "2017-05-20", "end": "2017-05-22" },
     { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2017-06-23", "end": "2017-06-25" }
