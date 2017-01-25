@@ -39,7 +39,7 @@ export default {
         { icon: 'sticky-note-o gray', title: 'Secretary', name: 'Garland Best' }
       ],
       governors: [
-        { name: 'Aris Marghetis' },
+        { name: 'Aris Marghetis (also EOCA/OCA Regional Vice-President)' },
         { name: 'David Gordon' },
         { name: 'Garland Best' }
       ]
