@@ -35,7 +35,7 @@ export default {
     }
   },
   created () {
-    this.$http.get('//s3.amazonaws.com/eoca/static/seasons.json').then((response) => {
+    this.$http.get('/static/seasons.json').then((response) => {
       this.seasons = response.body
     }, (response) => {
       console.log(response)

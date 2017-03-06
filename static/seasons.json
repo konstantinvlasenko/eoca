@@ -13,7 +13,7 @@
       "rounds": "5, Friday 7:30 PM Saturday & Sunday @ 10 AM & 3 PM.",
       "byes": "Max of three ½ point byes in the first four rounds.",
       "type": "Regular Swiss",
-      "time": "Game-in- 90-plus- 30-seconds- a-move.",
+      "time": "Game in 90 minutes plus 30 seconds per move.",
       "registration": [
         "Cheque by January 9, 2017, payable to: Halldor P. Palsson, 633 Island Park Cr., Ottawa, Ont. K1Y 3P4 or e-mail fs889@ncf.ca",
         "Or register in person at the RA Chess Club, January 5th or 12th, 7:00-7:30 PM"
@@ -46,7 +46,7 @@
       "rounds": "5, Friday 7:30 PM Saturday & Sunday @ 10 AM & 3 PM.",
       "byes": "Max of three ½ point byes in the first four rounds.",
       "type": "Regular Swiss",
-      "time": "Game-in- 90-plus- 30-seconds- a-move.",
+      "time": "Game in 90 minutes plus 30 seconds per move.",
       "registration": [
         "Cheque by February 25, 2017, payable to: Halldor P. Palsson, 633 Island Park Cr., Ottawa, Ont. K1Y 3P4 or e-mail fs889@ncf.ca",
         "Or register in person at the RA Chess Club, February 16, 23 or March 2, 7:00-7:30 PM"
@@ -70,7 +70,37 @@
       ],
       "td": "Halldor P. Palsson"
     },
-    { "name": "Kingston Open", "location": "Kingston", "start": "2017-03-31", "end": "2017-04-02" },
+    { 
+      "bullletin": "/data/2017 Kingston Open.pdf",
+      "name": "Kingston Open",
+      "location": "Kingston",
+      "start": "2017-03-31",
+      "end": "2017-04-02",
+      "place": "St. Matthew's United Church Auditorium, 31 Weller Avenue, Kingston, Ontario",
+      "rounds": "5, Friday 8 PM Saturday & Sunday @ 10 AM & 3 PM.",
+      "byes": "Max of two ½ point byes in the first four rounds if requested before the start of round 1",
+      "type": "Regular Swiss",
+      "time": "Game in 90 minutes plus 30 seconds per move.",
+      "registration": [
+        "If you wish to register or have additional questions send an email to dbarlow2@cogeco.ca or call at 613-549-2895.",
+        "You can also use the email address to pay the registration fees via PayPal, or by cheque by March 28, 2017, payable to: Daniel Barlow, 9 Parkington Place, Kingston, ON, K7K 5C8. "
+      ],
+      "sections": {
+        "OPEN": "(rated FIDE & CFC); One section tournament - prizes by rating group - rating groups determined by distribution"
+      },
+      "fees": { 
+        "Entry Fee": "$50 for CFC or FQE members, $70 for non-members. Fair exchange on US currency.",
+        "Amateur Entry Fee": "$30. Amateur entrants are not eligible for prizes"
+      },
+      "notes": [ 
+        "One section tournament-prizes by rating group-rating groups determined by distribution.",
+        "100% of the prize eligible Registration Fees collected are returned as prizes.",
+        "Please bring your own equipment if you prefer it – RA Club sets and clocks are provided."
+      ],
+      "Accommodation:": "we encourage players (and their families) requiring accommodation to make their own arrangements this year as Kingston offers many alternatives. If you need assistance with obtaining accommodation or have other questions please use the contact information provided below.",
+      "td": "Vadim I. Tsypin, FIDE National Arbiter",
+      "to": "Dan Barlow"
+    },
     { "name": "Arnprior Open", "location": "Arnprior", "start": "2017-04-29", "end": "2017-04-30" },
     { "name": "Ontario Open", "location": "Ottawa", "start": "2017-05-20", "end": "2017-05-22" },
     { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2017-06-23", "end": "2017-06-25" }

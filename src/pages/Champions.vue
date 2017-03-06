@@ -3,7 +3,7 @@
     <div class="card-content">
       <span class="card-title">EOCA Grand Prix Champions</span>
       <ul class="collection">
-        <li class="collection-item" v-for="player in players">
+        <li class="collection-item" v-for="player in players"></li>
         <span>{{ player.season }}</span>
         <span class="right">{{ player.name }}</span>
       </ul>

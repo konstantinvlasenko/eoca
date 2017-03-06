@@ -5,9 +5,9 @@
         <div class="col s4">
           <h5 class="white-text">About</h5>
           <ul>
-            <li><router-link to="/constitution" class="grey-text text-lighten-3">Constitution</router-link>
-            <li><router-link to="/board" class="grey-text text-lighten-3">Board Members</router-link>
-            <li><router-link to="/regulations" class="grey-text text-lighten-3">EOCA Grand Prix Regulations</router-link>
+            <li><router-link to="/constitution" class="grey-text text-lighten-3">Constitution</router-link></li>
+            <li><router-link to="/board" class="grey-text text-lighten-3">Board Members</router-link></li>
+            <li><router-link to="/regulations" class="grey-text text-lighten-3">EOCA Grand Prix Regulations</router-link></li>
           </ul>
         </div>
         <div class="col s4">

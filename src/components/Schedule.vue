@@ -39,8 +39,15 @@
               <div v-if="tournament.byes">
                 <b>Requesting byes:</b> {{ tournament.byes }}
               </div>
+              <div>
+                <b>Electronic Devices:</b>
+                <li class="collection-item">A mobile phone or other electronic device is allowed to be stored in a player’s bag or purse, as long as the device is completely switched off. A player is forbidden to carry a bag holding such a device, without the permission of the arbiter.</li>
+              </div>
               <div v-if="tournament.td">
-                <b>TD:</b> {{ tournament.td }}
+                <b>Tournament Director:</b> {{ tournament.td }}
+              </div>
+              <div v-if="tournament.to">
+                <b>Tournament Organizer:</b> {{ tournament.to }}
               </div>
             </blockquote>
           </div>
@@ -61,7 +68,7 @@ export default {
     }
   },
   created () {
-    this.$http.get('//s3.amazonaws.com/eoca/static/seasons.json').then((response) => {
+    this.$http.get('/static/seasons.json').then((response) => {
       this.tournaments = response.body['2016/2017']
       let _pastTournaments = this.tournaments.filter((tournament) => { return Date.now() > Date.parse(tournament.end) })
       let _upcommingTournaments = this.tournaments.filter((tournament) => { return Date.now() < Date.parse(tournament.end) })
