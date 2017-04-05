@@ -101,7 +101,36 @@
       "td": "Vadim I. Tsypin, FIDE National Arbiter",
       "to": "Dan Barlow"
     },
-    { "name": "Arnprior Open", "location": "Arnprior", "start": "2017-04-29", "end": "2017-04-30" },
+    { 
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2017-04-29",
+      "end": "2017-04-30",
+      "place": "Arnprior Library, 21 Madawaska Street (beside the clock tower)",
+      "rounds": "5, Saturday @ 9am, 2pm and 7pm; Sunday 9am and 2pm.",
+      "byes": "Max of two ½ point byes in the first three rounds.",
+      "type": "Regular Swiss Open, U1900, U1600, pairings in single section with class prizes",
+      "time": "Game in 90 minutes plus 30 seconds per move.",
+      "registration": [
+        "Cheque by April 15, 2017, payable to: Herb Langer, 45 Sleepy Pines Street, Arnprior, Ont K7S 3E3",
+        "Or register in person at the RA Chess Club, April 20 or April 27, 7:00-7:30 PM"
+      ],
+      "sections": {
+        "OPEN": "(rated FIDE & CFC); One section tournament - prizes by rating group - rating groups determined by distribution"
+      },
+      "fees": { 
+        "Entry Fee": "$50 if pre-registered, $60 at site.",
+        "Amateur Entry Fee": "$30. Amateur entrants are not eligible for prizes",
+        "Free entry for GM/WGM & IM/WIM if entered by April 15th."
+      },
+      "notes": [ 
+        "Sections and prizes are based on entries and may change.",
+        "Amateur entrants will be used in a higher or a lower section, if needed, to avoid giving a BYE to a player.",
+        "Please bring your own equipment, none will be provided."
+      ],
+      "td": "Herb Langer",
+      "to": "Herb Langer"
+    },
     { "name": "Ontario Open", "location": "Ottawa", "start": "2017-05-20", "end": "2017-05-22" },
     { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2017-06-23", "end": "2017-06-25" }
   ],
