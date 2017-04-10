@@ -7,6 +7,7 @@
           <i class="material-icons circle" v-bind:class="{ green: tournament.next }">{{ Date.now() > Date.parse(tournament.end) ? 'done' : tournament.next ? 'alarm_on' : 'schedule' }}</i>
           <span>{{ tournament.name }}</span><span class="right"><span>{{ tournament.start }}</span> - <span>{{ tournament.end }}</span></span><br/>
           <span>{{ tournament.location }}</span><br/>
+          <span v-if="tournament.document"><a :href="tournament.document">Information</a></span><br/>
           <div class="blue-grey-text text-darken-2">
             <blockquote v-if="tournament.next">
               <div v-if="tournament.place">

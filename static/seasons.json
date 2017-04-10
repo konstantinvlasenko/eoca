@@ -71,7 +71,7 @@
       "td": "Halldor P. Palsson"
     },
     { 
-      "bullletin": "/data/2017 Kingston Open.pdf",
+      "document": "https://s3.amazonaws.com/eoca/data/2017 Kingston Open.pdf",
       "name": "Kingston Open",
       "location": "Kingston",
       "start": "2017-03-31",
@@ -102,6 +102,7 @@
       "to": "Dan Barlow"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/Arnprior+Open.pdf",
       "name": "Arnprior Open",
       "location": "Arnprior",
       "start": "2017-04-29",
@@ -120,19 +121,30 @@
       },
       "fees": { 
         "Entry Fee": "$50 if pre-registered, $60 at site.",
-        "Amateur Entry Fee": "$30. Amateur entrants are not eligible for prizes",
-        "Free entry for GM/WGM & IM/WIM if entered by April 15th."
+        "Amateur Entry Fee": "$30. Amateur entrants are not eligible for prizes"
       },
       "notes": [ 
         "Sections and prizes are based on entries and may change.",
+        "Free entry for GM/WGM & IM/WIM if entered by April 15th.",
         "Amateur entrants will be used in a higher or a lower section, if needed, to avoid giving a BYE to a player.",
         "Please bring your own equipment, none will be provided."
       ],
       "td": "Herb Langer",
       "to": "Herb Langer"
     },
-    { "name": "Ontario Open", "location": "Ottawa", "start": "2017-05-20", "end": "2017-05-22" },
-    { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2017-06-23", "end": "2017-06-25" }
+    { 
+      "name": "Ontario Open", 
+      "location": "Ottawa", 
+      "start": "2017-05-20", 
+      "end": "2017-05-22" 
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 Eastern Ontario Open Chess Championship.pdf",
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2017-06-23",
+      "end": "2017-06-25"
+    }
   ],
   "2015/2016": [
     { "name": "RA Fall Open", "location": "Ottawa", "start": "2015-09-18", "end": "2015-09-20", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201509037", "U1900": "http://chess.ca/crosstable?tournament_check_number=201509039", "U1600": "http://chess.ca/crosstable?tournament_check_number=201509038" },
