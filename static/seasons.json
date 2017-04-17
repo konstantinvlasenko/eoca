@@ -8,131 +8,30 @@
       "name": "RA Winter Open",
       "location": "Ottawa",
       "start": "2017-01-13",
-      "end": "2017-01-15",
-      "place": "RA Centre, 2451 Riverside Drive, Ottawa - Bytown rooms A & B.",
-      "rounds": "5, Friday 7:30 PM Saturday & Sunday @ 10 AM & 3 PM.",
-      "byes": "Max of three ½ point byes in the first four rounds.",
-      "type": "Regular Swiss",
-      "time": "Game in 90 minutes plus 30 seconds per move.",
-      "registration": [
-        "Cheque by January 9, 2017, payable to: Halldor P. Palsson, 633 Island Park Cr., Ottawa, Ont. K1Y 3P4 or e-mail fs889@ncf.ca",
-        "Or register in person at the RA Chess Club, January 5th or 12th, 7:00-7:30 PM"
-      ],
-      "sections": {
-        "OPEN": "(rated FIDE & CFC); 1st $400, 2nd $200, 3rd $100; U2200 $100",
-        "U1900": "(rated CFC); 1st $200, 2nd $125, 3rd $75; U1750 $100",
-        "U1600": "(rated CFC) 1st $150, 2nd $100, 3rd $50"
-      },
-      "fees": { 
-        "OPEN": "$60 if pre-registered, $70 at site",
-        "U1900": "$60 if pre-registered, $70 at site",
-        "U1600": "$40 if pre-registered, $60 at site"
-      },
-      "notes": [ 
-        "Add $20 if playing up a section. A player must be 100 points or less from the rating floor for the section he wants to play up in.",
-        "Amateur entry is $30. Amateur entrants are not eligible for prizes. Amateur entrants will be used in a higher or a lower section, if needed, to avoid giving a BYE to a player.",
-        "Free entry for GM/WGM & IM/WIM if entered by e-mail by January 5th.",
-        "Sections and prizes are based on projected entries and may change.",
-        "Please bring your own equipment if you prefer it – RA Club sets and clocks are provided."
-      ],
-      "td": "Halldor P. Palsson"
+      "end": "2017-01-15"
     },
     { 
       "name": "RA March Open",
       "location": "Ottawa",
       "start": "2017-03-03",
-      "end": "2017-03-05",
-      "place": "RA Centre, 2451 Riverside Drive, Ottawa - Courtside A.",
-      "rounds": "5, Friday 7:30 PM Saturday & Sunday @ 10 AM & 3 PM.",
-      "byes": "Max of three ½ point byes in the first four rounds.",
-      "type": "Regular Swiss",
-      "time": "Game in 90 minutes plus 30 seconds per move.",
-      "registration": [
-        "Cheque by February 25, 2017, payable to: Halldor P. Palsson, 633 Island Park Cr., Ottawa, Ont. K1Y 3P4 or e-mail fs889@ncf.ca",
-        "Or register in person at the RA Chess Club, February 16, 23 or March 2, 7:00-7:30 PM"
-      ],
-      "sections": {
-        "OPEN": "(rated FIDE & CFC); 1st $400, 2nd $200, 3rd $100; U2200 $100",
-        "U1900": "(rated CFC); 1st $200, 2nd $125, 3rd $75; U1750 $100",
-        "U1600": "(rated CFC) 1st $150, 2nd $100, 3rd $50"
-      },
-      "fees": { 
-        "OPEN": "$60 if pre-registered, $70 at site",
-        "U1900": "$60 if pre-registered, $70 at site",
-        "U1600": "$40 if pre-registered, $60 at site"
-      },
-      "notes": [ 
-        "Add $20 if playing up a section. A player must be 100 points or less from the rating floor for the section he wants to play up in.",
-        "Amateur entry is $30. Amateur entrants are not eligible for prizes. Amateur entrants will be used in a higher or a lower section, if needed, to avoid giving a BYE to a player.",
-        "Free entry for GM/WGM & IM/WIM if entered by e-mail by January 5th.",
-        "Sections and prizes are based on projected entries and may change.",
-        "Please bring your own equipment if you prefer it – RA Club sets and clocks are provided."
-      ],
-      "td": "Halldor P. Palsson"
+      "end": "2017-03-05"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2017 Kingston Open.pdf",
       "name": "Kingston Open",
       "location": "Kingston",
       "start": "2017-03-31",
-      "end": "2017-04-02",
-      "place": "St. Matthew's United Church Auditorium, 31 Weller Avenue, Kingston, Ontario",
-      "rounds": "5, Friday 8 PM Saturday & Sunday @ 10 AM & 3 PM.",
-      "byes": "Max of two ½ point byes in the first four rounds if requested before the start of round 1",
-      "type": "Regular Swiss",
-      "time": "Game in 90 minutes plus 30 seconds per move.",
-      "registration": [
-        "If you wish to register or have additional questions send an email to dbarlow2@cogeco.ca or call at 613-549-2895.",
-        "You can also use the email address to pay the registration fees via PayPal, or by cheque by March 28, 2017, payable to: Daniel Barlow, 9 Parkington Place, Kingston, ON, K7K 5C8. "
-      ],
-      "sections": {
-        "OPEN": "(rated FIDE & CFC); One section tournament - prizes by rating group - rating groups determined by distribution"
-      },
-      "fees": { 
-        "Entry Fee": "$50 for CFC or FQE members, $70 for non-members. Fair exchange on US currency.",
-        "Amateur Entry Fee": "$30. Amateur entrants are not eligible for prizes"
-      },
-      "notes": [ 
-        "One section tournament-prizes by rating group-rating groups determined by distribution.",
-        "100% of the prize eligible Registration Fees collected are returned as prizes.",
-        "Please bring your own equipment if you prefer it – RA Club sets and clocks are provided."
-      ],
-      "Accommodation:": "we encourage players (and their families) requiring accommodation to make their own arrangements this year as Kingston offers many alternatives. If you need assistance with obtaining accommodation or have other questions please use the contact information provided below.",
-      "td": "Vadim I. Tsypin, FIDE National Arbiter",
-      "to": "Dan Barlow"
+      "end": "2017-04-02"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/Arnprior+Open.pdf",
       "name": "Arnprior Open",
       "location": "Arnprior",
       "start": "2017-04-29",
-      "end": "2017-04-30",
-      "place": "Arnprior Library, 21 Madawaska Street (beside the clock tower)",
-      "rounds": "5, Saturday @ 9am, 2pm and 7pm; Sunday 9am and 2pm.",
-      "byes": "Max of two ½ point byes in the first three rounds.",
-      "type": "Regular Swiss Open, U1900, U1600, pairings in single section with class prizes",
-      "time": "Game in 90 minutes plus 30 seconds per move.",
-      "registration": [
-        "Cheque by April 15, 2017, payable to: Herb Langer, 45 Sleepy Pines Street, Arnprior, Ont K7S 3E3",
-        "Or register in person at the RA Chess Club, April 20 or April 27, 7:00-7:30 PM"
-      ],
-      "sections": {
-        "OPEN": "(rated FIDE & CFC); One section tournament - prizes by rating group - rating groups determined by distribution"
-      },
-      "fees": { 
-        "Entry Fee": "$50 if pre-registered, $60 at site.",
-        "Amateur Entry Fee": "$30. Amateur entrants are not eligible for prizes"
-      },
-      "notes": [ 
-        "Sections and prizes are based on entries and may change.",
-        "Free entry for GM/WGM & IM/WIM if entered by April 15th.",
-        "Amateur entrants will be used in a higher or a lower section, if needed, to avoid giving a BYE to a player.",
-        "Please bring your own equipment, none will be provided."
-      ],
-      "td": "Herb Langer",
-      "to": "Herb Langer"
+      "end": "2017-04-30"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2017 Ontario Open.pdf",
       "name": "Ontario Open", 
       "location": "Ottawa", 
       "start": "2017-05-20", 

@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-content">
-      <span class="card-title">Chess Federations, Associations and Leagues</span>
+      <span class="card-title">Chess Organizations</span>
       <div class="collection">
         <a href="http://www.fide.com/" class="collection-item">FIDE</a>
         <a href="http://www.chess.ca/" class="collection-item">Chess Federation of Canada</a>
