@@ -6,6 +6,60 @@
       "location": "Smiths Falls",
       "start": "2017-08-12",
       "end": "2017-08-13"
+    },
+    { 
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2017-09-29",
+      "end": "2017-10-01"
+    },
+    { 
+      "name": "Almonte Open",
+      "location": "Almonte",
+      "start": "2017-10-28",
+      "end": "2017-10-29"
+    },
+    { 
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2017-11-10",
+      "end": "2017-11-12"
+    },
+    { 
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2017-12-08",
+      "end": "2017-12-10"
+    },
+    { 
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2018-01-19",
+      "end": "2018-01-21"
+    },
+    { 
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2018-03-02",
+      "end": "2018-03-04"
+    },
+    { 
+      "name": "Kingston Open",
+      "location": "Kingston",
+      "start": "2018-03-30",
+      "end": "2018-04-01"
+    },
+    { 
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2018-05-05",
+      "end": "2018-05-06"
+    },
+    { 
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2018-06-22",
+      "end": "2018-06-24"
     }
   ],
   "2016/2017": [
