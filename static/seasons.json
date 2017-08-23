@@ -1,4 +1,13 @@
 {
+  "2017/2018": [
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2017 SmithsFallsOpen.pdf",
+      "name": "1st Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2017-08-12",
+      "end": "2017-08-13"
+    }
+  ],
   "2016/2017": [
     { "name": "Almonte Open", "location": "Almonte", "start": "2016-08-27", "end": "2016-08-28", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201608065" },
     { "name": "RA Fall Open", "location": "Ottawa", "start": "2016-09-23", "end": "2016-09-25", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201609031", "U1900": "http://chess.ca/crosstable?tournament_check_number=201609033", "U1600": "http://chess.ca/crosstable?tournament_check_number=201609032" },

@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-content">
-      <span class="card-title">Grand Prix Tournaments 2016/2017</span><i class="right material-icons">event_available</i>
+      <span class="card-title">Grand Prix Tournaments 2017/2018</span><i class="right material-icons">event_available</i>
       <ul class="collapsible popout" data-collapsible="accordion">
         <li>
           <div class="collapsible-header active"><i class="material-icons right"></i>Upcoming</div>
@@ -56,7 +56,7 @@ export default {
   },
   created () {
     this.$http.get('/static/seasons.json').then((response) => {
-      this.tournaments = response.body['2016/2017']
+      this.tournaments = response.body['2017/2018']
       this.completed = this.tournaments.filter((tournament) => { return Date.now() > Date.parse(tournament.end) })
       this.tournaments = this.tournaments.filter((tournament) => { return Date.now() < Date.parse(tournament.end) })
       this.tournaments[0].next = true
