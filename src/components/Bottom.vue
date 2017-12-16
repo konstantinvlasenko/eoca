@@ -8,6 +8,7 @@
             <li><router-link to="/constitution" class="grey-text text-lighten-3">Constitution</router-link></li>
             <li><router-link to="/board" class="grey-text text-lighten-3">Board Members</router-link></li>
             <li><router-link to="/regulations" class="grey-text text-lighten-3">EOCA Grand Prix Regulations</router-link></li>
+            <li><a href="https://s3.amazonaws.com/eoca/data/minutes/EOCA AGM 2017.pdf" class="grey-text text-lighten-3">EOCA AGM Minutes</a></li>
           </ul>
         </div>
         <div class="col s4">

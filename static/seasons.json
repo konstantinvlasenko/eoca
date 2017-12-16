@@ -5,7 +5,8 @@
       "name": "1st Smiths Falls Open",
       "location": "Smiths Falls",
       "start": "2017-08-12",
-      "end": "2017-08-13"
+      "end": "2017-08-13",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201708032"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2017 RA Fall Open.pdf",
@@ -15,22 +16,26 @@
       "end": "2017-10-01"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2nd Almonte Open.pdf",
       "name": "Almonte Open",
       "location": "Almonte",
       "start": "2017-10-28",
       "end": "2017-10-29"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2017 National Capital Open.pdf",
       "name": "National Capital Open",
       "location": "Ottawa",
       "start": "2017-11-10",
       "end": "2017-11-12"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2017 RA December Open.pdf",
       "name": "RA December Open",
       "location": "Ottawa",
       "start": "2017-12-08",
-      "end": "2017-12-10"
+      "end": "2017-12-10",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201712025"
     },
     { 
       "name": "RA Winter Open",
