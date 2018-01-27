@@ -38,6 +38,7 @@
       "OPEN": "http://chess.ca/crosstable?tournament_check_number=201712025"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2018 Ottawa Winter Open.pdf",
       "name": "RA Winter Open",
       "location": "Ottawa",
       "start": "2018-01-19",
