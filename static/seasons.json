@@ -13,21 +13,24 @@
       "name": "RA Fall Open",
       "location": "Ottawa",
       "start": "2017-09-29",
-      "end": "2017-10-01"
+      "end": "2017-10-01",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201710002"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2nd Almonte Open.pdf",
       "name": "Almonte Open",
       "location": "Almonte",
       "start": "2017-10-28",
-      "end": "2017-10-29"
+      "end": "2017-10-29",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201711027"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2017 National Capital Open.pdf",
       "name": "National Capital Open",
       "location": "Ottawa",
       "start": "2017-11-10",
-      "end": "2017-11-12"
+      "end": "2017-11-12",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201711048"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2017 RA December Open.pdf",
@@ -45,12 +48,14 @@
       "end": "2018-01-21"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2018 RA March Open.pdf",
       "name": "RA March Open",
       "location": "Ottawa",
       "start": "2018-03-02",
       "end": "2018-03-04"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2018 Kingston Open CFC.pdf",
       "name": "Kingston Open",
       "location": "Kingston",
       "start": "2018-03-23",
@@ -63,6 +68,7 @@
       "end": "2018-05-06"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2018 Eastern Ontario Open Chess Championship.pdf",
       "name": "Eastern Ontario Open",
       "location": "Ottawa",
       "start": "2018-06-22",
