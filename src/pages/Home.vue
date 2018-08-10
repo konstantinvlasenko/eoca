@@ -1,6 +1,6 @@
 <template>
   <div>
-    <announcement></announcement>
+    <!--<announcement></announcement>-->
     <schedule></schedule>
   </div>
 </template>
