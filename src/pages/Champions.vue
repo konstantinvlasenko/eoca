@@ -16,6 +16,8 @@ export default {
   data () {
     return {
       players: [
+      { season: '2017/2018', name: 'David Gordon' },
+      { season: '2016/2017', name: 'William Doubleday' },
       { season: '2015/2016', name: 'GM Bator Sambuev' },
       { season: '2014/2015', name: 'GM Bator Sambuev' },
       { season: '2013/2014', name: 'William Doubleday' },
