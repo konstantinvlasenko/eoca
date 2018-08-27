@@ -1,4 +1,69 @@
 {
+  "2018/2019": [
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2018 SmithsFallsOpen.pdf",
+      "name": "2nd Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2018-08-18",
+      "end": "2018-08-19",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201808055"
+    },
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2018 RA Fall Open.pdf",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2018-09-14",
+      "end": "2018-09-16"
+    },
+    { 
+      "name": "Almonte Open",
+      "location": "Almonte",
+      "start": "2018-10-13",
+      "end": "2018-10-14"
+    },
+    { 
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2018-11-16",
+      "end": "2018-11-18"
+    },
+    { 
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2018-12-07",
+      "end": "2018-12-09"
+    },
+    { 
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2019-01-18",
+      "end": "2019-01-20"
+    },
+    { 
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2019-03-01",
+      "end": "2019-03-03"
+    },
+    { 
+      "name": "Kingston Open",
+      "location": "Kingston",
+      "start": "2019-03-29",
+      "end": "2019-03-31"
+    },
+    { 
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2019-05-04",
+      "end": "2019-05-05"
+    },
+    { 
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2019-06-14",
+      "end": "2019-06-16"
+    }
+  ],
   "2017/2018": [
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2017 SmithsFallsOpen.pdf",
