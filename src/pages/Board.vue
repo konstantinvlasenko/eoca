@@ -35,13 +35,14 @@ export default {
       members: [
         { icon: 'mortar-board teal darken-4', title: 'President', name: 'Aris Marghetis' },
         { icon: 'mortar-board teal darken-1', title: 'Vice-President', name: 'David Gordon' },
-        { icon: 'dollar teal lighten-2', title: 'Treasurer', name: 'William Doubleday' },
+        { icon: 'dollar teal lighten-2', title: 'Treasurer', name: 'Halldor Palsson' },
         { icon: 'sticky-note-o gray', title: 'Secretary', name: 'Garland Best' }
       ],
       governors: [
         { name: 'Aris Marghetis (also EOCA/OCA Regional Vice-President)' },
         { name: 'David Gordon' },
-        { name: 'Garland Best' }
+        { name: 'Jeremy Sztuka' },
+        { name: 'John Upper' }
       ]
     }
   }
