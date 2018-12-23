@@ -35,6 +35,7 @@
       "end": "2018-12-09"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019 Ottawa Winter Open.pdf",
       "name": "RA Winter Open",
       "location": "Ottawa",
       "start": "2019-01-18",
