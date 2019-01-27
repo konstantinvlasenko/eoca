@@ -42,6 +42,7 @@
       "end": "2019-01-20"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019+RA+March+Open.pdf",
       "name": "RA March Open",
       "location": "Ottawa",
       "start": "2019-03-01",
@@ -52,6 +53,13 @@
       "location": "Kingston",
       "start": "2019-03-29",
       "end": "2019-03-31"
+    },
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+January+27th).pdf",
+      "name": "2019 Canada Zonal & Easter Sectionals (U2200/U1900/U1600)",
+      "location": "Kingston",
+      "start": "2019-04-18",
+      "end": "2019-04-22"
     },
     { 
       "document": "https://s3.amazonaws.com/eoca/data/38th Annual Arnprior Open.pdf",
