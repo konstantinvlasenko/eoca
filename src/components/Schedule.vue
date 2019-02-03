@@ -11,8 +11,10 @@
                 <i class="material-icons circle" v-bind:class="{ green: tournament.next }">{{ Date.now() > Date.parse(tournament.end) ? 'done' : tournament.next ? 'alarm_on' : 'schedule' }}</i>
                 <span>{{ tournament.name }}</span>
                 <span class="right"><span v-if="tournament.document"><a :href="tournament.document">Information</a></span></span><br/>
-                <span>{{ tournament.location }}</span><template v-if="tournament.tourism"><span class="right"><a :href="tournament.tourism">Tourism {{ tournament.location }}</a></span><br/></template>
-                <span class="right"><span>{{ tournament.start }}</span> - <span>{{ tournament.end }}</span></span><br/>
+                <span>{{ tournament.location }}</span>
+                <template v-if="tournament.tourism"><span class="right"><a :href="tournament.tourism">Tourism {{ tournament.location }}</a></span><br/></template>
+                <template v-if="tournament.press"><span><a :href="tournament.press">Press Release</a></span></template>
+                <span class="right"><span>{{ tournament.start }}</span> - <span>{{ tournament.end }}</span></span>
               </li>
             </ul>
           </div>

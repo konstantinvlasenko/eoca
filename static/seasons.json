@@ -57,6 +57,7 @@
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+January+28th).pdf",
       "tourism": "https://s3.amazonaws.com/eoca/data/Easter+in+Kingston+-+restaurants+and+attractions.pdf",
+      "press": "https://s3.amazonaws.com/eoca/data/Press+Release+-+Canadian+Men's+and+Women's+Chess+Championships.pdf",
       "name": "2019 Canada Zonal & Easter Sectionals (U2200/U1900/U1600)",
       "location": "Kingston",
       "start": "2019-04-18",
