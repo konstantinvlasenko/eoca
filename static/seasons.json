@@ -49,6 +49,7 @@
       "end": "2019-03-03"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019KingstonOpen.pdf",
       "name": "Kingston Open",
       "location": "Kingston",
       "start": "2019-03-29",
