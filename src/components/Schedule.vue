@@ -10,7 +10,7 @@
               <li class="collection-item avatar" v-for="tournament in tournaments" v-bind:key="tournament.start">
                 <i class="material-icons circle" v-bind:class="{ green: tournament.next }">{{ Date.now() > Date.parse(tournament.end) ? 'done' : tournament.next ? 'alarm_on' : 'schedule' }}</i>
                 <span>{{ tournament.name }}</span>
-                <span class="right"><span v-if="tournament.document"><a :href="tournament.document">Information</a></span></span><br/>
+                <span class="right"><span v-if="tournament.document"><a :href="tournament.document">Information</a></span><span v-if="tournament.french"> | <a :href="tournament.french">Français</a></span></span><br/>
                 <span>{{ tournament.location }}</span>
                 <template v-if="tournament.tourism"><span class="right"><a :href="tournament.tourism">Tourism {{ tournament.location }}</a></span><br/></template>
                 <template v-if="tournament.press"><span><a :href="tournament.press">Press Release</a></span></template>

@@ -56,7 +56,8 @@
       "end": "2019-03-31"
     },
     { 
-      "document": "https://s3.amazonaws.com/eoca/data/2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+March+6th).pdf",
+      "document": "https://s3.amazonaws.com/eoca/data/2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+April+6th).pdf",
+      "french": "https://s3.amazonaws.com/eoca/data/French+-+2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+March+17th).pdf",
       "tourism": "https://s3.amazonaws.com/eoca/data/Easter+in+Kingston+-+restaurants+and+attractions.pdf",
       "press": "https://s3.amazonaws.com/eoca/data/Press+Release+-+Canadian+Men's+and+Women's+Chess+Championships.pdf",
       "name": "2019 Canada Zonal & Easter Sectionals (U2200/U1900/U1600)",
@@ -72,6 +73,7 @@
       "end": "2019-05-05"
     },
     { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019+Eastern+Ontario+Open+Chess+Championship.pdf",
       "name": "Eastern Ontario Open",
       "location": "Ottawa",
       "start": "2019-06-14",
