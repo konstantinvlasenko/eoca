@@ -39,7 +39,6 @@ export default {
     this.$http.get('/static/seasons.json').then((response) => {
       this.tournaments = response.body['2018/2019']
       this.tournaments.find(t => Date.now() < Date.parse(t.end)).next = true
-      this.tournaments = this.tournaments.reverse()
     }, (response) => {
       console.log(response)
     })
