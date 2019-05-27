@@ -1,4 +1,13 @@
 {
+  "2019/2020": [
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019 SmithsFallsOpen.pdf",
+      "name": "3rd Annual Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2019-08-17",
+      "end": "2019-08-18"
+    }
+  ],
   "2018/2019": [
     { 
       "document": "https://s3.amazonaws.com/eoca/data/2018 SmithsFallsOpen.pdf",
@@ -78,6 +87,13 @@
       "location": "Ottawa",
       "start": "2019-06-14",
       "end": "2019-06-16"
+    },
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019 SmithsFallsOpen.pdf",
+      "name": "3rd Annual Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2019-08-17",
+      "end": "2019-08-18"
     }
   ],
   "2017/2018": [
