@@ -6,6 +6,55 @@
       "location": "Smiths Falls",
       "start": "2019-08-17",
       "end": "2019-08-18"
+    },
+    { 
+      "document": "https://s3.amazonaws.com/eoca/data/2019 RA Fall Open.pdf",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2019-09-27",
+      "end": "2019-09-29"
+    },
+    { 
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2019-11-8",
+      "end": "2019-11-10"
+    },
+    { 
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2019-12-06",
+      "end": "2019-12-08"
+    },
+    { 
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2020-01-17",
+      "end": "2020-01-19"
+    },
+    { 
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2020-02-28",
+      "end": "2020-03-01"
+    },
+    { 
+      "name": "Kingston Easter Chess",
+      "location": "Kingston",
+      "start": "2020-04-09",
+      "end": "2020-04-13"
+    },
+    { 
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2020-05-02",
+      "end": "2020-05-03"
+    },
+    { 
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2020-06-12",
+      "end": "2020-06-14"
     }
   ],
   "2018/2019": [
