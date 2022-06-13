@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-content">
-      <span class="card-title">Grand Prix Tournaments 2019/2020</span><i class="right material-icons">event_available</i>
+      <span class="card-title">Grand Prix Tournaments 2022/2023</span><i class="right material-icons">event_available</i>
         <ul class="collection">
           <li class="collection-item avatar" v-for="tournament in tournaments" v-bind:key="tournament.start">
             <i class="material-icons circle" v-bind:class="{ green: tournament.next }">{{ Date.now() > Date.parse(tournament.end) ? 'done' : tournament.next ? 'alarm_on' : 'schedule' }}</i>
@@ -37,7 +37,7 @@ export default {
   },
   created () {
     this.$http.get('/static/seasons.json').then((response) => {
-      this.tournaments = response.body['2019/2020']
+      this.tournaments = response.body['2022/2023']
       this.tournaments.find(t => Date.now() < Date.parse(t.end)).next = true
     }, (response) => {
       console.log(response)
