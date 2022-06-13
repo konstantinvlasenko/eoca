@@ -1,4 +1,13 @@
 {
+  "2022/2023": [
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/VKH_Open_2022.docx",
+      "name": "Vankleek Hill Open",
+      "location": "Vankleek Hill",
+      "start": "2022-08-13",
+      "end": "2022-08-14"
+    }
+  ],
   "2021/2022": [
     {
       "document": "https://s3.amazonaws.com/eoca/data/2021+RA+Fall+Open.pdf",
@@ -27,6 +36,14 @@
       "location": "Ottawa",
       "start": "2022-03-04",
       "end": "2022-03-06"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+KEC+announcement.pdf",
+      "french": "https://eoca.s3.amazonaws.com/data/2022+KEC+fran%C3%A7ais.pdf",
+      "name": "KEC (Kingston Easter Chess)",
+      "location": "Kingston",
+      "start": "2022-04-13",
+      "end": "2022-04-18"
     },
     {
       "document": "https://eoca.s3.amazonaws.com/data/2022+Eastern+Ontario+Open+Chess+Championship.docx",
