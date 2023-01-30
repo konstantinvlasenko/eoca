@@ -6,6 +6,34 @@
       "location": "Vankleek Hill",
       "start": "2022-08-13",
       "end": "2022-08-14"
+    },
+    {
+      "document": "https://www.chesscanada.info/forum/showthread.php?5898-2022-RA-Fall-Open-September-23-24-25",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2022-09-23",
+      "end": "2022-09-25"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+National+Capital+Open.docx",
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2022-11-04",
+      "end": "2022-11-06"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+RA+December+Open.doc",
+      "name": "2022 RA December Open",
+      "location": "Ottawa",
+      "start": "2022-12-09",
+      "end": "2022-12-11"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2023+RA+March+Open.docx",
+      "name": "2023 RA March Open",
+      "location": "Ottawa",
+      "start": "2023-03-03",
+      "end": "2023-03-05"
     }
   ],
   "2021/2022": [
