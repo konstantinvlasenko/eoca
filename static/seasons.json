@@ -1,4 +1,60 @@
 {
+  "2023/2024": [
+    {
+      "name": "Vankleek Hill Open",
+      "location": "Vankleek Hill",
+      "start": "2023-08-12",
+      "end": "2023-08-13"
+    },
+    {
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2023-09-29",
+      "end": "2023-10-01"
+    },
+    {
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2023-11-03",
+      "end": "2023-11-05"
+    },
+    {
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2023-12-08",
+      "end": "2023-12-10"
+    },
+    {
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2024-01-19",
+      "end": "2024-01-21"
+    },
+    {
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2024-03-01",
+      "end": "2024-03-03"
+    },
+    {
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2024-05-03",
+      "end": "2024-05-05"
+    },
+    {
+      "name": "Gatineau Open",
+      "location": "Gatineau",
+      "start": "2024-05-24",
+      "end": "2024-05-26"
+    },
+    {
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2024-06-14",
+      "end": "2024-06-16"
+    }
+  ],
   "2022/2023": [
     {
       "document": "https://eoca.s3.amazonaws.com/data/VKH_Open_2022.docx",
