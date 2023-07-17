@@ -1,42 +1,26 @@
-<script setup>
-defineProps({
-  msg: {
-    type: String,
-    required: true
-  }
-})
-</script>
-
 <template>
-  <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h3>
-      We are updating schedule for our new season.
-    </h3>
-  </div>
+  <p class="text-center text-h6">Grand Prix Tournaments 2023/2024</p>
+  <v-container>
+    <v-row :key="start" v-for="{ name, location, start, end, next } in tournaments" class="bg-indigo-lighten-5 ma-auto">
+      <v-col cols="1"><v-icon icon="mdi-clock-outline" color="green"></v-icon></v-col>
+      <v-col cols="4">{{ name }}</v-col>
+      <v-col cols="3">{{ location }}</v-col>
+      <v-col cols="2">{{ start }}</v-col>
+      <v-col cols="2">
+        <div :class="rounded-r-0">{{ end }}</div></v-col>
+    </v-row>
+  </v-container>
 </template>
 
-<style scoped>
-h1 {
-  font-weight: 500;
-  font-size: 2.6rem;
-  position: relative;
-  top: -10px;
-}
+<script setup>
+  import { ref } from 'vue';
 
-h3 {
-  font-size: 1.2rem;
-}
+  const tournaments = ref([]);
 
-.greetings h1,
-.greetings h3 {
-  text-align: center;
-}
-
-@media (min-width: 1024px) {
-  .greetings h1,
-  .greetings h3 {
-    text-align: left;
+  async function getData() {
+    const res = await fetch("/static/seasons.json");
+    tournaments.value = (await res.json())['2023/2024'];
   }
-}
-</style>
+
+ getData()
+</script>
