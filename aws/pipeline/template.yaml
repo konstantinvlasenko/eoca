@@ -29,6 +29,15 @@ Resources:
                 - codebuild.amazonaws.com
             Action:
               - sts:AssumeRole
+      Policies:
+        - PolicyName: !Sub ${AWS::StackName}-build
+          PolicyDocument:
+            Version: 2012-10-17
+            Statement:
+              - Effect: Allow
+                Action:
+                  - cloudfront:CreateInvalidation
+                Resource: '*'
       ManagedPolicyArns:
         - arn:aws:iam::aws:policy/CloudWatchLogsFullAccess
         - arn:aws:iam::aws:policy/AmazonS3FullAccess
@@ -50,6 +59,8 @@ Resources:
         EnvironmentVariables:
           - Name: Bucket
             Value: eoca
+          - Name: Distribution
+            Value: E1WGSJF0DH4EOJ
       Source:
         Type: CODEPIPELINE
         BuildSpec: aws/pipeline/buildspecs/vue.yaml
