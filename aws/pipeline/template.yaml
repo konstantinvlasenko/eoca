@@ -47,6 +47,9 @@ Resources:
         Type: LINUX_CONTAINER
         ComputeType: BUILD_GENERAL1_SMALL
         Image: aws/codebuild/standard:6.0
+        EnvironmentVariables:
+          - Name: Bucket
+            Value: eoca
       Source:
         Type: CODEPIPELINE
         BuildSpec: aws/pipeline/buildspecs/vue.yaml
