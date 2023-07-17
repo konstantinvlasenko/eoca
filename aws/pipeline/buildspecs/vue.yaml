@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 16
+    commands:
+      - apt-get update
+      - npm install --global yarn
+  pre_build:
+    commands:
+      - yarn
+  build:
+    commands:
+      - yarn build
