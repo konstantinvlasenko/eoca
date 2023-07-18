@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  <TournamentsSchedule />
 </template>
 
 <script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
+  import TournamentsSchedule from '@/components/TournamentsSchedule.vue'
 </script>
