@@ -1,15 +1,30 @@
 <template>
-  <v-footer>
-    <v-card
-        tile
-        flat
-        width="100%"
-        color="indigo"
-        height="100px"
-        class="d-flex align-center justify-center"
+  <v-footer class="bg-indigo-lighten-1">
+    <v-row justify="center" no-gutters>
+      <v-btn
+        v-for="link in links"
+        :key="link"
+        color="white"
+        variant="text"
+        class="mx-2"
+        rounded="xl"
       >
-      <strong>Maintained by Konstantin Vlasenko</strong>
-      <v-btn key="mdi-linkedin" icon="mdi-linkedin" class="mx-4" variant="text" href="https://www.linkedin.com/in/konstantin-vlasenko/" target="_blank"></v-btn>
-    </v-card>
+        {{ link }}
+      </v-btn>
+      <v-col class="text-center mt-4" cols="12">
+        {{ new Date().getFullYear() }} — <strong>eoca</strong>
+      </v-col>
+    </v-row>
   </v-footer>
 </template>
+
+<script>
+  export default {
+    data: () => ({
+      links: [
+        'Home',
+        'Constitution',
+      ],
+    }),
+  }
+</script>
