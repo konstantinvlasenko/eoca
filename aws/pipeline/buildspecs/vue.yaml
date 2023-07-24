@@ -15,4 +15,5 @@ phases:
       - yarn build
       - aws s3 sync ./dist/assets/ s3://$Bucket/site/assets/ --delete
       - aws s3 cp ./dist/index.html s3://$Bucket/site/index.html
+      - aws s3 cp seasons.json s3://$Bucket/site/static/seasons.json
       - aws cloudfront create-invalidation --distribution-id $Distribution --paths "/*"

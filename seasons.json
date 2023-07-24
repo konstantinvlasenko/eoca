@@ -1,0 +1,460 @@
+{
+  "2023/2024": [
+    {
+      "name": "Vankleek Hill Open",
+      "location": "Vankleek Hill",
+      "start": "2023-08-12",
+      "end": "2023-08-13",
+      "document": "https://eoca.s3.amazonaws.com/data/VKH_Open_2023.docx"
+    },
+    {
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2023-09-29",
+      "end": "2023-10-01"
+    },
+    {
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2023-11-03",
+      "end": "2023-11-05"
+    },
+    {
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2023-12-08",
+      "end": "2023-12-10"
+    },
+    {
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2024-01-19",
+      "end": "2024-01-21"
+    },
+    {
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2024-03-01",
+      "end": "2024-03-03"
+    },
+    {
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2024-05-03",
+      "end": "2024-05-05"
+    },
+    {
+      "name": "Gatineau Open",
+      "location": "Gatineau",
+      "start": "2024-05-24",
+      "end": "2024-05-26"
+    },
+    {
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2024-06-14",
+      "end": "2024-06-16"
+    }
+  ],
+  "2022/2023": [
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/VKH_Open_2022.docx",
+      "name": "Vankleek Hill Open",
+      "location": "Vankleek Hill",
+      "start": "2022-08-13",
+      "end": "2022-08-14"
+    },
+    {
+      "document": "https://www.chesscanada.info/forum/showthread.php?5898-2022-RA-Fall-Open-September-23-24-25",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2022-09-23",
+      "end": "2022-09-25"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+National+Capital+Open.docx",
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2022-11-04",
+      "end": "2022-11-06"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+RA+December+Open.doc",
+      "name": "2022 RA December Open",
+      "location": "Ottawa",
+      "start": "2022-12-09",
+      "end": "2022-12-11"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2023+RA+March+Open.docx",
+      "name": "2023 RA March Open",
+      "location": "Ottawa",
+      "start": "2023-03-03",
+      "end": "2023-03-05"
+    }
+  ],
+  "2021/2022": [
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2021+RA+Fall+Open.pdf",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2021-09-24",
+      "end": "2021-09-26"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2021+National+Capital+Open.pdf",
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2021-11-05",
+      "end": "2021-11-07"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2021+RA+December+Open.doc",
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2021-12-10",
+      "end": "2021-12-11"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+RA+March+Open.docx",
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2022-03-04",
+      "end": "2022-03-06"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+KEC+announcement.pdf",
+      "french": "https://eoca.s3.amazonaws.com/data/2022+KEC+fran%C3%A7ais.pdf",
+      "name": "KEC (Kingston Easter Chess)",
+      "location": "Kingston",
+      "start": "2022-04-13",
+      "end": "2022-04-18"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2022+Eastern+Ontario+Open+Chess+Championship.docx",
+      "name": "Eastern Ontario Open Chess Championship",
+      "location": "Ottawa",
+      "start": "2022-06-10",
+      "end": "2022-06-12"
+    }
+  ],
+  "2019/2020": [
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019 SmithsFallsOpen.pdf",
+      "name": "3rd Annual Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2019-08-17",
+      "end": "2019-08-18"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019 RA Fall Open.pdf",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2019-09-27",
+      "end": "2019-09-29"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2019+National+Capital+Open.pdf",
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2019-11-8",
+      "end": "2019-11-10"
+    },
+    {
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2019-12-06",
+      "end": "2019-12-08"
+    },
+    {
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2020-01-17",
+      "end": "2020-01-19"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2020+RA+March+Open.pdf",
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2020-02-28",
+      "end": "2020-03-01"
+    },
+    {
+      "name": "CANCELLED due to COVID-19",
+      "location": "2020 Canada Women Zonal & Canadian Closed & Easter Sectionals (U2200/U1900/U1600)",
+      "start": "2020-04-09",
+      "end": "2020-04-13"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/39th+Annual+Arnprior+Open.pdf",
+      "name": "CANCELLED due to COVID-19",
+      "location": "Arnprior Open",
+      "start": "2020-05-02",
+      "end": "2020-05-03"
+    },
+    {
+      "document": "https://eoca.s3.amazonaws.com/data/2020+Eastern+Ontario+Open+Chess+Championship.pdf",
+      "name": "CANCELLED due to COVID-19",
+      "location": "Eastern Ontario Open",
+      "start": "2020-06-12",
+      "end": "2020-06-14"
+    }
+  ],
+  "2018/2019": [
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 SmithsFallsOpen.pdf",
+      "name": "2nd Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2018-08-18",
+      "end": "2018-08-19",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201808055"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 RA Fall Open.pdf",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2018-09-14",
+      "end": "2018-09-16"
+    },
+    {
+      "name": "Almonte Open",
+      "location": "Almonte",
+      "start": "2018-10-13",
+      "end": "2018-10-14"
+    },
+    {
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2018-11-16",
+      "end": "2018-11-18"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 RA December Open.pdf",
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2018-12-07",
+      "end": "2018-12-09"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019 Ottawa Winter Open.pdf",
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2019-01-18",
+      "end": "2019-01-20"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019+RA+March+Open.pdf",
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2019-03-01",
+      "end": "2019-03-03"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019KingstonOpen.pdf",
+      "name": "Kingston Open",
+      "location": "Kingston",
+      "start": "2019-03-29",
+      "end": "2019-03-31"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+April+18th).pdf",
+      "french": "https://s3.amazonaws.com/eoca/data/French+-+2019+Canada+Zonal+%26+Easter+Sectionals+(as+of+March+17th).pdf",
+      "tourism": "https://s3.amazonaws.com/eoca/data/Easter+in+Kingston+-+restaurants+and+attractions.pdf",
+      "press": "https://s3.amazonaws.com/eoca/data/Press+Release+-+Canadian+Men's+and+Women's+Chess+Championships.pdf",
+      "name": "2019 Canada Zonal & Easter Sectionals (U2200/U1900/U1600)",
+      "location": "Kingston",
+      "start": "2019-04-18",
+      "end": "2019-04-22"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/38th Annual Arnprior Open.pdf",
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2019-05-04",
+      "end": "2019-05-05"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019+Eastern+Ontario+Open+Chess+Championship.pdf",
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2019-06-14",
+      "end": "2019-06-16"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2019 SmithsFallsOpen.pdf",
+      "name": "3rd Annual Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2019-08-17",
+      "end": "2019-08-18"
+    }
+  ],
+  "2017/2018": [
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 SmithsFallsOpen.pdf",
+      "name": "1st Smiths Falls Open",
+      "location": "Smiths Falls",
+      "start": "2017-08-12",
+      "end": "2017-08-13",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201708032"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 RA Fall Open.pdf",
+      "name": "RA Fall Open",
+      "location": "Ottawa",
+      "start": "2017-09-29",
+      "end": "2017-10-01",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201710002"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2nd Almonte Open.pdf",
+      "name": "Almonte Open",
+      "location": "Almonte",
+      "start": "2017-10-28",
+      "end": "2017-10-29",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201711027"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 National Capital Open.pdf",
+      "name": "National Capital Open",
+      "location": "Ottawa",
+      "start": "2017-11-10",
+      "end": "2017-11-12",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201711048"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 RA December Open.pdf",
+      "name": "RA December Open",
+      "location": "Ottawa",
+      "start": "2017-12-08",
+      "end": "2017-12-10",
+      "OPEN": "http://chess.ca/crosstable?tournament_check_number=201712025"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 Ottawa Winter Open.pdf",
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2018-01-19",
+      "end": "2018-01-21"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 RA March Open.pdf",
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2018-03-02",
+      "end": "2018-03-04"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 Kingston Open CFC.pdf",
+      "name": "Kingston Open",
+      "location": "Kingston",
+      "start": "2018-03-23",
+      "end": "2018-03-25"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/37th Annual Arnprior Open.pdf",
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2018-05-05",
+      "end": "2018-05-06"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2018 Eastern Ontario Open Chess Championship.pdf",
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2018-06-22",
+      "end": "2018-06-24"
+    }
+  ],
+  "2016/2017": [
+    { "name": "Almonte Open", "location": "Almonte", "start": "2016-08-27", "end": "2016-08-28", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201608065" },
+    { "name": "RA Fall Open", "location": "Ottawa", "start": "2016-09-23", "end": "2016-09-25", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201609031", "U1900": "http://chess.ca/crosstable?tournament_check_number=201609033", "U1600": "http://chess.ca/crosstable?tournament_check_number=201609032" },
+    { "name": "National Capital Open", "location": "Ottawa", "start": "2016-10-28", "end": "2016-10-30", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201611007", "U1900": "http://chess.ca/crosstable?tournament_check_number=201611009", "U1600": "http://chess.ca/crosstable?tournament_check_number=201611008" },
+    { "name": "RA November Open", "location": "Ottawa", "start": "2016-11-25", "end": "2016-11-27", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201611081", "U1600": "http://chess.ca/crosstable?tournament_check_number=201611082" },
+    {
+      "name": "RA Winter Open",
+      "location": "Ottawa",
+      "start": "2017-01-13",
+      "end": "2017-01-15"
+    },
+    {
+      "name": "RA March Open",
+      "location": "Ottawa",
+      "start": "2017-03-03",
+      "end": "2017-03-05"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 Kingston Open.pdf",
+      "name": "Kingston Open",
+      "location": "Kingston",
+      "start": "2017-03-31",
+      "end": "2017-04-02"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/Arnprior+Open.pdf",
+      "name": "Arnprior Open",
+      "location": "Arnprior",
+      "start": "2017-04-29",
+      "end": "2017-04-30"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 Ontario Open.pdf",
+      "name": "Ontario Open",
+      "location": "Ottawa",
+      "start": "2017-05-20",
+      "end": "2017-05-22"
+    },
+    {
+      "document": "https://s3.amazonaws.com/eoca/data/2017 Eastern Ontario Open Chess Championship.pdf",
+      "name": "Eastern Ontario Open",
+      "location": "Ottawa",
+      "start": "2017-06-23",
+      "end": "2017-06-25"
+    }
+  ],
+  "2015/2016": [
+    { "name": "RA Fall Open", "location": "Ottawa", "start": "2015-09-18", "end": "2015-09-20", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201509037", "U1900": "http://chess.ca/crosstable?tournament_check_number=201509039", "U1600": "http://chess.ca/crosstable?tournament_check_number=201509038" },
+    { "name": "National Capital Open", "location": "Ottawa", "start": "2015-10-23", "end": "2015-10-25", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201510037", "U1900": "http://chess.ca/crosstable?tournament_check_number=201510039", "U1600": "http://chess.ca/crosstable?tournament_check_number=201510038" },
+    { "name": "RA November Open", "location": "Ottawa", "start": "2015-11-27", "end": "2015-11-29", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201512007", "U1900": "http://chess.ca/crosstable?tournament_check_number=201510039", "U1600": "http://chess.ca/crosstable?tournament_check_number=201512008" },
+    { "name": "RA Winter Open", "location": "Ottawa", "start": "2016-01-08", "end": "2016-01-09", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201601025", "U1900": "http://chess.ca/crosstable?tournament_check_number=201601027", "U1600": "http://chess.ca/crosstable?tournament_check_number=201601026" },
+    { "name": "Kingston Open", "location": "Kingston", "start": "2016-02-26", "end": "2016-02-28", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201603006" },
+    { "name": "Gatineau Open", "location": "Gatineau", "start": "2016-03-04", "end": "2016-03-06", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201603020", "U1900": "http://chess.ca/crosstable?tournament_check_number=201603019", "U1600": "http://chess.ca/crosstable?tournament_check_number=201603018" },
+    { "name": "CYCC Qualifier", "location": "Nepean", "start": "2016-03-28", "end": "2016-03-28", "U16": "http://chess.ca/crosstable?tournament_check_number=201604025", "U12": "http://chess.ca/crosstable?tournament_check_number=201604024", "U10": "http://chess.ca/crosstable?tournament_check_number=201604023", "U8": "http://chess.ca/crosstable?tournament_check_number=201604026" },
+    { "name": "McIntosh  Open", "location": "Morrisburg", "start": "2016-04-09", "end": "2016-04-10", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201604039" },
+    { "name": "Arnprior Open", "location": "Arnprior", "start": "2016-04-30", "end": "2016-05-01", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201605009" },
+    { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2016-06-24", "end": "2016-06-26", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201606067", "U1900": "http://chess.ca/crosstable?tournament_check_number=201606069", "U1600": "http://chess.ca/crosstable?tournament_check_number=201606068" }
+  ],
+  "2014/2015": [
+    { "name": "RA Fall Open", "location": "Ottawa", "start": "2014-09-19", "end": "2014-09-21", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201409038", "U1900": "http://chess.ca/crosstable?tournament_check_number=201409040", "U1600": "http://chess.ca/crosstable?tournament_check_number=201409039" },
+    { "name": "National Capital Open", "location": "Ottawa", "start": "2014-10-31", "end": "2014-11-02", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201411014", "U2200": "http://chess.ca/crosstable?tournament_check_number=201411016", "U1900": "http://chess.ca/crosstable?tournament_check_number=201411015" },
+    { "name": "RA November Open", "location": "Ottawa", "start": "2014-11-28", "end": "2014-11-30", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201412004", "U1900": "http://chess.ca/crosstable?tournament_check_number=201412005" },
+    { "name": "RA Winter Open", "location": "Ottawa", "start": "2015-01-16", "end": "2015-01-18", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201501013", "U1900": "http://chess.ca/crosstable?tournament_check_number=201501015", "U1600": "http://chess.ca/crosstable?tournament_check_number=201501014" },
+    { "name": "Kingston Open", "location": "Kingston", "start": "2015-02-06", "end": "2015-02-08", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201502011" },
+    { "name": "Gatineau Open", "location": "Gatineau", "start": "2015-03-06", "end": "2015-03-08", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201503010", "U1900": "http://chess.ca/crosstable?tournament_check_number=201503012", "U1600": "http://chess.ca/crosstable?tournament_check_number=201503011" },
+    { "name": "McIntosh  Open", "location": "Morrisburg", "start": "2015-04-11", "end": "2015-04-12", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201504079" },
+    { "name": "Arnprior Open", "location": "Arnprior", "start": "2015-05-02", "end": "2015-05-03", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201505015" },
+    { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2015-06-19", "end": "2015-06-21", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201506056", "U1900": "http://chess.ca/crosstable?tournament_check_number=201506058", "U1600": "http://chess.ca/crosstable?tournament_check_number=201506057" }
+  ],
+  "2013/2014": [
+    { "name": "RA Fall Open", "location": "Ottawa", "start": "2013-09-13", "end": "2013-09-15", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201309032", "U1900": "http://chess.ca/crosstable?tournament_check_number=201309034", "U1600": "http://chess.ca/crosstable?tournament_check_number=201309033" },
+    { "name": "National Capital Open", "location": "Ottawa", "start": "2013-10-18", "end": "2013-10-20", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201310032", "U2200": "http://chess.ca/crosstable?tournament_check_number=201310034", "U1900": "http://chess.ca/crosstable?tournament_check_number=201310033" },
+    { "name": "RA November Open", "location": "Ottawa", "start": "2014-11-08", "end": "2014-11-10", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201311051", "U1900": "http://chess.ca/crosstable?tournament_check_number=201311052" },
+    { "name": "RA Winter Open", "location": "Ottawa", "start": "2014-01-17", "end": "2014-01-19", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201401023", "U1900": "http://chess.ca/crosstable?tournament_check_number=201401025", "U1600": "http://chess.ca/crosstable?tournament_check_number=201401024" },
+    { "name": "Kingston Open", "location": "Kingston", "start": "2014-02-07", "end": "2014-02-09", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201402015" },
+    { "name": "Gatineau Open", "location": "Gatineau", "start": "2014-02-28", "end": "2014-03-02", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201403001", "U1800": "http://chess.ca/crosstable?tournament_check_number=201403003", "U1500": "http://chess.ca/crosstable?tournament_check_number=201403002" },
+    { "name": "McIntosh  Open", "location": "Morrisburg", "start": "2014-04-12", "end": "2014-04-13", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201404034" },
+    { "name": "CYCC Qualifier", "location": "Nepean", "start": "2014-04-21", "end": "2014-04-21", "U16": "http://chess.ca/crosstable?tournament_check_number=201404099", "U10": "http://chess.ca/crosstable?tournament_check_number=201404098" },
+    { "name": "Arnprior Open", "location": "Arnprior", "start": "2014-05-03", "end": "2014-05-04", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201405001" },
+    { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2014-06-20", "end": "2014-06-22" }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+}
