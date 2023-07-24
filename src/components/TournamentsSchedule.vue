@@ -1,6 +1,6 @@
 <template>
   <p class="text-center text-h6">Grand Prix Tournaments 2023/2024</p>
-  <v-container class="w-50">
+  <v-container class="w-75">
     <v-row :key="start" v-for="{ name, location, start, end, document, next } in tournaments" class="bg-indigo-lighten-5 ma-auto">
       <v-col cols="1" class="float-right"><v-icon icon="mdi-clock-outline" color="green"></v-icon></v-col>
       <v-col cols="5"><span>{{ name }}</span><br/><span>{{ location }}</span><br/><span v-if="document"><a :href="document">Information</a></span></v-col>
