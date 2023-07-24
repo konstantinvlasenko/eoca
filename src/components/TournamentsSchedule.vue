@@ -1,13 +1,11 @@
 <template>
   <p class="text-center text-h6">Grand Prix Tournaments 2023/2024</p>
-  <v-container>
+  <v-container class="w-50">
     <v-row :key="start" v-for="{ name, location, start, end, document, next } in tournaments" class="bg-indigo-lighten-5 ma-auto">
-      <v-col cols="1"><v-icon icon="mdi-clock-outline" color="green"></v-icon></v-col>
-      <v-col cols="4">{{ name }}</v-col>
-      <v-col cols="2">{{ location }}</v-col>
-      <v-col cols="2">{{ start }}</v-col>
-      <v-col cols="2">{{ end }}</v-col>
-      <v-col cols="1"><span v-if="document"><a :href="document">Information</a></span></v-col>
+      <v-col cols="1" class="float-right"><v-icon icon="mdi-clock-outline" color="green"></v-icon></v-col>
+      <v-col cols="5"><span>{{ name }}</span><br/><span>{{ location }}</span><br/><span v-if="document"><a :href="document">Information</a></span></v-col>
+      <v-col cols="3">{{ start }}</v-col>
+      <v-col cols="3">{{ end }}</v-col>
     </v-row>
   </v-container>
 </template>
