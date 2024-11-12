@@ -1,4 +1,13 @@
 {
+  "2024/2025": [
+    {
+      "name": "Ottawa December Open",
+      "location": "Ottawa",
+      "start": "2024-12-06",
+      "end": "2024-12-08",
+      "document": "https://eoca.s3.us-east-1.amazonaws.com/data/2024+Ottawa+December+Open.doc"
+    }
+  ],
   "2023/2024": [
     {
       "name": "Vankleek Hill Open",
