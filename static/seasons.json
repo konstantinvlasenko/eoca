@@ -1,46 +1,55 @@
 {
+  "2024/2025": [
+    {
+      "name": "Ottawa December Open",
+      "location": "Ottawa",
+      "start": "2024-12-06",
+      "end": "2024-12-08",
+      "document": "https://eoca.s3.us-east-1.amazonaws.com/data/2024+Ottawa+December+Open.doc"
+    }
+  ],
   "2023/2024": [
     {
       "name": "Vankleek Hill Open",
       "location": "Vankleek Hill",
       "start": "2023-08-12",
-      "end": "2023-08-13"
+      "end": "2023-08-13",
+      "document": "https://eoca.s3.amazonaws.com/data/VKH_Open_2023.docx"
     },
     {
-      "name": "RA Fall Open",
+      "name": "Ottawa Fall Open",
       "location": "Ottawa",
       "start": "2023-09-29",
-      "end": "2023-10-01"
+      "end": "2023-10-01",
+      "document": "https://www.chesscanada.info/forum/showthread.php?6142-2023-Ottawa-Fall-Open-Sep-29-30-Oct-1"
     },
     {
       "name": "National Capital Open",
       "location": "Ottawa",
       "start": "2023-11-03",
-      "end": "2023-11-05"
+      "end": "2023-11-05",
+      "document": "https://www.chesscanada.info/forum/showthread.php?6232-2023-National-Capital-Open-November-3-4-5"
     },
     {
-      "name": "RA December Open",
+      "name": "Ottawa December Open",
       "location": "Ottawa",
       "start": "2023-12-08",
-      "end": "2023-12-10"
+      "end": "2023-12-10",
+      "document": "https://www.chesscanada.info/forum/showthread.php?6257-2023-Ottawa-December-Open-December-8-9-10"
     },
     {
-      "name": "RA Winter Open",
-      "location": "Ottawa",
-      "start": "2024-01-19",
-      "end": "2024-01-21"
-    },
-    {
-      "name": "RA March Open",
+      "name": "Ottawa March Open",
       "location": "Ottawa",
       "start": "2024-03-01",
-      "end": "2024-03-03"
+      "end": "2024-03-03",
+      "document": "https://www.chesscanada.info/forum/showthread.php?6318-2024-Ottawa-March-Open-March-1-3"
     },
     {
       "name": "Arnprior Open",
       "location": "Arnprior",
       "start": "2024-05-03",
-      "end": "2024-05-05"
+      "end": "2024-05-05",
+      "document": "https://eoca.s3.amazonaws.com/data/40th+Arnprior+Open.docx"
     },
     {
       "name": "Gatineau Open",
@@ -445,15 +454,4 @@
     { "name": "Arnprior Open", "location": "Arnprior", "start": "2014-05-03", "end": "2014-05-04", "OPEN": "http://chess.ca/crosstable?tournament_check_number=201405001" },
     { "name": "Eastern Ontario Open", "location": "Ottawa", "start": "2014-06-20", "end": "2014-06-22" }
   ]
-
-
-
-
-
-
-
-
-
-
-
 }
