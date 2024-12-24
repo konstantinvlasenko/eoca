@@ -16,7 +16,7 @@
     "deploy": "npm run build && npm run deploy-data && npm run deploy-static"
   },
   "dependencies": {
-    "vue": "^2.2.1",
+    "vue": "^3.0.0",
     "vue-resource": "^1.2.1",
     "vue-router": "^2.3.0"
   },
