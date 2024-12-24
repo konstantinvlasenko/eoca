@@ -6,6 +6,20 @@
       "start": "2024-12-06",
       "end": "2024-12-08",
       "document": "https://eoca.s3.us-east-1.amazonaws.com/data/2024+Ottawa+December+Open.doc"
+    },
+    {
+      "name": "Ottawa Winter Open",
+      "location": "Ottawa",
+      "start": "2025-01-17",
+      "end": "2025-01-19",
+      "document": "https://www.chesscanada.info/forum/showthread.php?6579-2025-Ottawa-Winter-Open-January-17-18-19"
+    },
+    {
+      "name": "41st Arnprior Open",
+      "location": "Arnprior",
+      "start": "2025-05-02",
+      "end": "2025-05-04",
+      "document": "https://eoca.s3.us-east-1.amazonaws.com/data/Arnprior+Open+2025.pdf"
     }
   ],
   "2023/2024": [
